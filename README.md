@@ -10,7 +10,7 @@ Composer
 ```javascript
 {
     "require": {
-        "niletphp/configuration": ">=1.0"
+        "niletphp/configuration": ">=v1.0"
     }
 }
 ```
